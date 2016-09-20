@@ -1,7 +1,7 @@
 {
   "name": "sle",
   "main": "./lib/sle",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Script Library Editor",
   "keywords": [],
   "activationCommands": {
