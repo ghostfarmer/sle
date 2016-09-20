@@ -2,12 +2,12 @@
   "name": "sle",
   "main": "./lib/sle",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "Script Library Editor",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "sle:pullAll"
   },
-  "repository": "https://github.com/atom/sle",
+  "repository": "https://github.com/ghostfarmer/sle",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
