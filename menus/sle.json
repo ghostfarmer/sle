@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "PullAll",
+        "command": "sle:pullAll"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sle",
+          "submenu": [
+            {
+              "label": "PullAll",
+              "command": "sle:pullAll"
+            },
+            {
+              "label": "execute",
+              "command": "sle:execute"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
